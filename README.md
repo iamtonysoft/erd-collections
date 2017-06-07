@@ -3,12 +3,23 @@ Software Engineering
 
 This repository contains a list of Entity Relationship Diagrams the XML File can be open using this link https://www.draw.io
 
-List of Diagrams :
+List of Diagrams
 
-eCommerce
-- 
+# eCommerce 
+- Customers
+- Orders
+- OrderStatusCode
+- OrderItems
+- OrderItemStatusCode
+- Shipments
+- ShipmentItems
+- Invoices
+- InvoiceStatusCode
+- Payments
+- Products
+- ProductTypes
 
-Blog
+# Blog
 - Users
 - Blogs
 - BlogEntries
