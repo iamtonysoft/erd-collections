@@ -24,3 +24,13 @@ List of Diagrams
 - Blogs
 - BlogEntries
 - BlogComments
+
+# MovieTheater
+- Customers
+- Branch
+- Cinema
+- ScreeningType
+- MovieCalendar
+- Movies
+- MoviePriceTag
+- Payments
