@@ -34,3 +34,9 @@ List of Diagrams
 - Movies
 - MoviePriceTag
 - Payments
+
+# IPay88
+- Customers
+- PaymentRequest
+- PaymentResponse
+- PaymentRequery
