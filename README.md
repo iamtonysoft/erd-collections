@@ -40,3 +40,17 @@ List of Diagrams
 - PaymentRequest
 - PaymentResponse
 - PaymentRequery
+
+# Barangay Centralized Database
+- Autonomous Region
+- Provinces
+- Independent Cities
+- Component Cities
+- Municipalities
+- Barangay
+- Blotter Cases
+- System Users
+- Document Request
+- Document Type
+- Registered Constituents
+
